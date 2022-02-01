@@ -1,3 +1,6 @@
+package test.java;
+
+import main.java.Dijkstra;
 import org.junit.Assert;
 import org.junit.Test;
 

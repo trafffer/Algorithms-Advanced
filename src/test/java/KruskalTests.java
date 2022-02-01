@@ -1,3 +1,7 @@
+package test.java;
+
+import main.java.Edge;
+import main.java.KruskalAlgorithm;
 import org.junit.Assert;
 import org.junit.Test;
 
