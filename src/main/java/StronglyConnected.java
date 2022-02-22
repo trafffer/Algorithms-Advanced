@@ -3,7 +3,7 @@ package main.java;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Main {
+public class StronglyConnected {
     public static int[][] graph;
     public static int[] distances;
     public static int[] prev;
